@@ -35,7 +35,7 @@ A professional Python + Tkinter desktop application for learning RSA cryptograph
 ### Step 1: Clone or Download
 ```bash
 # If you have git
-git clone <repository-url>
+git clone <https://github.com/jenishs524/RSA-Cryptrography-Tool-For-Education.git>
 cd RSA_Crypto_Edu_Tool
 
 # Or extract the ZIP file and navigate to the directory
